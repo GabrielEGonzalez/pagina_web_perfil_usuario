@@ -44,4 +44,4 @@ Diseñar y desarrollar una página web con:
 ## 🚀 Cómo usar
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/perfil-usuario.git
+   git clone https://github.com/GabrielEGonzalez/perfil-usuario.git
