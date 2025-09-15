@@ -1,0 +1,68 @@
+:root{
+    --primer-color:#000000;
+    --tercer-color:#739EC9;
+    --segundo-color:#5682B1;
+    --cuarto-color:#;
+}
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+ol{
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+li{
+    padding: 5px;
+    list-style: none;
+}
+
+.perfil{
+    display: flex;
+    margin: 20px;
+}
+
+.foto{
+        width: 300px;
+        object-fit: cover;
+}
+
+.foto img{
+    width: 100%;
+}
+
+.body-perfil{
+    margin-left: 20px;
+}
+
+.body-perfil h2{
+    padding: 2px;
+}
+
+.body-perfil h3{
+    margin: 3px 0;
+    color: #979595;
+}
+
+article{
+    padding: 10px;
+}
+
+.redes-sociales{
+    margin: 20px;
+}
